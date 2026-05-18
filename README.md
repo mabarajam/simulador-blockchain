@@ -1,6 +1,6 @@
 # Simulador de Blockchain
 
-Un simulador de blockchain estilo Bitcoin en Python. Crea wallets con seed phrases, envía transacciones basadas en UTXO, mina bloques con árboles de Merkle y ve cómo funciona el consenso. Hecho para aprender — no para producción.
+Un simulador de blockchain estilo Bitcoin en Python. Crea wallets con seed phrases, envía transacciones basadas en UTXO, mina bloques con árboles de Merkle y ve cómo funciona el consenso. Hecho para aprender, no para producción.
 
 ## Features
 
